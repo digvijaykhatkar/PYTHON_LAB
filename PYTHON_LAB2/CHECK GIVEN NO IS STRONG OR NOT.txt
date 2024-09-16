@@ -1,0 +1,23 @@
+import math
+
+def is_strong_number(num):
+    if num < 0:
+        return False  
+
+    
+    digits = str(num)
+    
+   
+    sum_of_factorials = sum(math.factorial(int(digit)) for digit in digits)
+    
+    
+    return sum_of_factorials == num
+
+
+num = int(input("Enter a number to check if it is a Strong number: "))
+
+
+if is_strong_number(num):
+    print(f"{num} is a Strong number.")
+else:
+    print(f"{num} is not a Strong number.")
