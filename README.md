@@ -161,8 +161,9 @@ C. To remove the (.) dots from the above string.
 5.	Write a program to check if a string contains only digits.
 6.	Write a program to find the number of vowels in the string
 
-# LAB5_PYTHON
+# LAB5_PYTHON 
 1.Write a Python program to triple all numbers in a given list of integers. Use Python map. 
+
 2.	Write a Python program to add three given lists using Python map and lambda.
 3.	Write a Python program to listify the list of given strings individually using Python map. 
 4.	Write a Python program to create a list containing the power of said number in bases raised to the corresponding number in the index using Python map. 
