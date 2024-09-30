@@ -24,6 +24,7 @@
 
 # LAB4_PYTHON
 1. Write a program to print the following pattern:-
+2. 
 Pattern #1: Simple Number Triangle Pattern
 Pattern:
 1  
