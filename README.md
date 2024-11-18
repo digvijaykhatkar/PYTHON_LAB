@@ -181,3 +181,9 @@ C. To remove the (.) dots from the above string.
 3. Write a program to define a class to represent a bank account, with methods to deposit, withdraw, and check the balance.
 4. Write a program to define a class Student with attributes like name and age, and create objects to represent different students
 
+# LAB6(CONT)_PYTHON
+1. WAP to create a class to set and get a password of private type.
+2. WAR to create a class to update marks of students that demonstrate protected members of the class.
+3. WAP to create a class to set and get details of employees that demonstrate public, private, and protected functions of a class.
+
+
